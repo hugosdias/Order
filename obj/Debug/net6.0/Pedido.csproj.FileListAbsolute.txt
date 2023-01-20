@@ -1,0 +1,15 @@
+C:\Udemy\Pedido\Pedido\bin\Debug\net6.0\Pedido.exe
+C:\Udemy\Pedido\Pedido\bin\Debug\net6.0\Pedido.deps.json
+C:\Udemy\Pedido\Pedido\bin\Debug\net6.0\Pedido.runtimeconfig.json
+C:\Udemy\Pedido\Pedido\bin\Debug\net6.0\Pedido.dll
+C:\Udemy\Pedido\Pedido\bin\Debug\net6.0\Pedido.pdb
+C:\Udemy\Pedido\Pedido\obj\Debug\net6.0\Pedido.csproj.AssemblyReference.cache
+C:\Udemy\Pedido\Pedido\obj\Debug\net6.0\Pedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\Pedido\Pedido\obj\Debug\net6.0\Pedido.AssemblyInfoInputs.cache
+C:\Udemy\Pedido\Pedido\obj\Debug\net6.0\Pedido.AssemblyInfo.cs
+C:\Udemy\Pedido\Pedido\obj\Debug\net6.0\Pedido.csproj.CoreCompileInputs.cache
+C:\Udemy\Pedido\Pedido\obj\Debug\net6.0\Pedido.dll
+C:\Udemy\Pedido\Pedido\obj\Debug\net6.0\refint\Pedido.dll
+C:\Udemy\Pedido\Pedido\obj\Debug\net6.0\Pedido.pdb
+C:\Udemy\Pedido\Pedido\obj\Debug\net6.0\Pedido.genruntimeconfig.cache
+C:\Udemy\Pedido\Pedido\obj\Debug\net6.0\ref\Pedido.dll
